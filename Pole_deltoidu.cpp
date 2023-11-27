@@ -1,16 +1,10 @@
 #include <iostream>
 
-
 using namespace std;
-
-
 
 
 int main() {
 	int figura, a, b, p1, p2, pole, obwod, warunek_zakonczenia;
-	
-	
-	
 	
 	
 	
@@ -37,13 +31,13 @@ int main() {
 			cin>>a;
 			cout<<"Podaj bok b";
 			cin>>b;
-			cout<<"Obwód wynosi="<<2*a+2*b<<endl;
+			cout<<"ObwÃ³d wynosi="<<2*a+2*b<<endl;
 			break;
 		default:
-			cout<<"B³¹d"<<endl;
+			cout<<"BÂ³Â¹d"<<endl;
 		}
 		
-		cout<<"Czy chcesz kontynuowaæ program? 1. Tak / 2. Nie";
+		cout<<"Czy chcesz kontynuowaÃ¦ program? 1. Tak / 2. Nie";
 		cin>>warunek_zakonczenia;
 		}
 		while(warunek_zakonczenia);
@@ -55,47 +49,4 @@ int main() {
 		
 		
 	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
+		
