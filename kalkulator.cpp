@@ -58,7 +58,7 @@ int main() {
 		}
 		while(warunek_zakonczenia);
 		
-		cout<<"Adrian_Sobczak";
+		cout<<"AdiniSobini";
 		return 0;
 		
 		}
