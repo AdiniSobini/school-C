@@ -29,4 +29,4 @@ powrot:
 	}
 	system("pause");
 	return 0;
-}//koniec bloku 
+}
